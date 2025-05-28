@@ -1,0 +1,205 @@
+[
+    {
+        "brand": "Ferrari",
+        "model": "F8 Tributo",
+        "licensePlate": "SDM-113",
+        "year": 2018,
+        "dailyPrice": 590
+    },
+    {
+        "brand": "Ferrari",
+        "model": "Portofino",
+        "licensePlate": "UCF-933",
+        "year": 2022,
+        "dailyPrice": 825
+    },
+    {
+        "brand": "Ferrari",
+        "model": "488 GTB",
+        "licensePlate": "YPY-800",
+        "year": 2024,
+        "dailyPrice": 688
+    },
+    {
+        "brand": "Lamborghini",
+        "model": "Urus",
+        "licensePlate": "JAL-624",
+        "year": 2024,
+        "dailyPrice": 502
+    },
+    {
+        "brand": "Lamborghini",
+        "model": "Huracan",
+        "licensePlate": "ELX-590",
+        "year": 2022,
+        "dailyPrice": 561
+    },
+    {
+        "brand": "Porsche",
+        "model": "911 Carrera",
+        "licensePlate": "ZLK-260",
+        "year": 2020,
+        "dailyPrice": 903
+    },
+    {
+        "brand": "Porsche",
+        "model": "911 Carrera",
+        "licensePlate": "NQT-379",
+        "year": 2023,
+        "dailyPrice": 854
+    },
+    {
+        "brand": "Porsche",
+        "model": "Panamera",
+        "licensePlate": "LZG-464",
+        "year": 2019,
+        "dailyPrice": 750
+    },
+    {
+        "brand": "Porsche",
+        "model": "Panamera",
+        "licensePlate": "MIP-723",
+        "year": 2023,
+        "dailyPrice": 398
+    },
+    {
+        "brand": "Bentley",
+        "model": "Continental GT",
+        "licensePlate": "FAY-544",
+        "year": 2021,
+        "dailyPrice": 760
+    },
+    {
+        "brand": "Bentley",
+        "model": "Bentayga",
+        "licensePlate": "JEV-885",
+        "year": 2022,
+        "dailyPrice": 687
+    },
+    {
+        "brand": "Maserati",
+        "model": "Ghibli",
+        "licensePlate": "XCA-708",
+        "year": 2020,
+        "dailyPrice": 648
+    },
+    {
+        "brand": "Maserati",
+        "model": "Ghibli",
+        "licensePlate": "TVE-221",
+        "year": 2019,
+        "dailyPrice": 686
+    },
+    {
+        "brand": "Aston Martin",
+        "model": "DB11",
+        "licensePlate": "DJZ-790",
+        "year": 2024,
+        "dailyPrice": 583
+    },
+    {
+        "brand": "Aston Martin",
+        "model": "DB11",
+        "licensePlate": "LYL-392",
+        "year": 2024,
+        "dailyPrice": 909
+    },
+    {
+        "brand": "Rolls-Royce",
+        "model": "Ghost",
+        "licensePlate": "CAF-314",
+        "year": 2022,
+        "dailyPrice": 532
+    },
+    {
+        "brand": "Rolls-Royce",
+        "model": "Ghost",
+        "licensePlate": "SSV-804",
+        "year": 2021,
+        "dailyPrice": 463
+    },
+    {
+        "brand": "Rolls-Royce",
+        "model": "Wraith",
+        "licensePlate": "HVN-758",
+        "year": 2024,
+        "dailyPrice": 983
+    },
+    {
+        "brand": "Rolls-Royce",
+        "model": "Ghost",
+        "licensePlate": "EVE-772",
+        "year": 2018,
+        "dailyPrice": 536
+    },
+    {
+        "brand": "BMW",
+        "model": "M8",
+        "licensePlate": "SMO-793",
+        "year": 2018,
+        "dailyPrice": 479
+    },
+    {
+        "brand": "BMW",
+        "model": "i8",
+        "licensePlate": "HOU-471",
+        "year": 2023,
+        "dailyPrice": 661
+    },
+    {
+        "brand": "BMW",
+        "model": "M8",
+        "licensePlate": "AYR-164",
+        "year": 2018,
+        "dailyPrice": 671
+    },
+    {
+        "brand": "BMW",
+        "model": "M8",
+        "licensePlate": "SRW-954",
+        "year": 2021,
+        "dailyPrice": 825
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "model": "S-Class",
+        "licensePlate": "LMA-427",
+        "year": 2019,
+        "dailyPrice": 704
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "model": "S-Class",
+        "licensePlate": "EDN-473",
+        "year": 2022,
+        "dailyPrice": 322
+    },
+    {
+        "brand": "Audi",
+        "model": "RS7",
+        "licensePlate": "QVN-192",
+        "year": 2021,
+        "dailyPrice": 833
+    },
+    {
+        "brand": "Audi",
+        "model": "RS7",
+        "licensePlate": "MQQ-436",
+        "year": 2022,
+        "dailyPrice": 602
+    },
+    {
+        "brand": "Audi",
+        "model": "R8",
+        "licensePlate": "FHH-105",
+        "year": 2019,
+        "dailyPrice": 592
+    },
+    {
+        "brand": "Audi",
+        "model": "A8",
+        "licensePlate": "MCK-196",
+        "year": 2021,
+        "dailyPrice": 664
+    }
+]
