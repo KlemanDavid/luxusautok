@@ -1,0 +1,101 @@
+id,brand,model,licensePlate,year,dailyPrice
+1,Ferrari,488 GTB,KOF-835,2022,870
+2,Ferrari,488 GTB,IZR-193,2021,372
+3,Ferrari,Portofino,TCP-340,2018,958
+4,Ferrari,F8 Tributo,MTM-500,2020,966
+5,Ferrari,488 GTB,FWR-652,2022,551
+6,Ferrari,488 GTB,IIW-807,2022,780
+7,Ferrari,488 GTB,INH-709,2021,770
+8,Ferrari,F8 Tributo,IFT-828,2020,938
+9,Ferrari,488 GTB,KIQ-537,2022,597
+10,Ferrari,F8 Tributo,FZN-135,2019,954
+11,Lamborghini,Huracan,AJE-428,2018,328
+12,Lamborghini,Urus,AUR-991,2020,987
+13,Lamborghini,Urus,SIN-409,2022,402
+14,Lamborghini,Aventador,NRI-226,2024,841
+15,Lamborghini,Huracan,LZI-109,2022,764
+16,Lamborghini,Urus,RUB-794,2024,694
+17,Lamborghini,Urus,BNL-673,2022,377
+18,Lamborghini,Aventador,BYE-303,2024,895
+19,Lamborghini,Urus,DRE-657,2022,986
+20,Lamborghini,Aventador,JZO-624,2018,941
+21,Porsche,Cayenne,SBJ-597,2024,882
+22,Porsche,911 Carrera,XTA-173,2024,396
+23,Porsche,911 Carrera,MLD-569,2019,913
+24,Porsche,911 Carrera,GGR-128,2023,526
+25,Porsche,911 Carrera,GUA-248,2021,908
+26,Porsche,911 Carrera,OYA-495,2019,308
+27,Porsche,Cayenne,FPV-643,2022,519
+28,Porsche,Panamera,EBL-684,2019,528
+29,Porsche,Cayenne,LMP-913,2019,897
+30,Porsche,Panamera,FUE-550,2024,384
+31,Bentley,Bentayga,ZMH-818,2020,784
+32,Bentley,Bentayga,WNM-638,2019,685
+33,Bentley,Continental GT,IZV-874,2020,629
+34,Bentley,Bentayga,DBQ-454,2022,425
+35,Bentley,Continental GT,RGI-819,2020,381
+36,Bentley,Continental GT,KUZ-616,2020,849
+37,Bentley,Bentayga,IJG-858,2023,974
+38,Bentley,Bentayga,YRR-500,2018,596
+39,Bentley,Bentayga,GTP-864,2019,515
+40,Bentley,Bentayga,VMH-475,2020,582
+41,Maserati,Ghibli,CZQ-251,2023,646
+42,Maserati,GranTurismo,VME-856,2021,632
+43,Maserati,Ghibli,QSW-865,2018,750
+44,Maserati,GranTurismo,YHW-209,2022,818
+45,Maserati,GranTurismo,DHJ-716,2022,951
+46,Maserati,Ghibli,CQX-557,2021,759
+47,Maserati,Ghibli,KHA-528,2021,714
+48,Maserati,GranTurismo,VBY-193,2018,485
+49,Maserati,Ghibli,KQM-797,2022,350
+50,Maserati,GranTurismo,SDN-182,2019,774
+51,Aston Martin,Vantage,GYK-591,2022,781
+52,Aston Martin,DB11,VXO-323,2019,484
+53,Aston Martin,Vantage,BUQ-619,2023,309
+54,Aston Martin,DB11,FZK-572,2022,912
+55,Aston Martin,DB11,JXH-964,2020,508
+56,Aston Martin,DB11,DPN-407,2023,668
+57,Aston Martin,DB11,EFO-793,2024,963
+58,Aston Martin,DB11,NUB-817,2019,370
+59,Aston Martin,Vantage,VPQ-768,2022,774
+60,Aston Martin,Vantage,OOL-584,2022,810
+61,Rolls-Royce,Ghost,UCM-791,2024,563
+62,Rolls-Royce,Wraith,TEU-986,2021,615
+63,Rolls-Royce,Ghost,CSF-346,2018,324
+64,Rolls-Royce,Ghost,YOA-991,2018,526
+65,Rolls-Royce,Wraith,MOY-521,2020,390
+66,Rolls-Royce,Wraith,CFG-407,2020,964
+67,Rolls-Royce,Ghost,ONC-169,2022,982
+68,Rolls-Royce,Ghost,WXZ-621,2020,904
+69,Rolls-Royce,Ghost,KVF-837,2018,312
+70,Rolls-Royce,Wraith,WTZ-785,2019,547
+71,BMW,M8,IHX-190,2023,820
+72,BMW,M5,OTO-159,2021,904
+73,BMW,M8,UFD-327,2018,871
+74,BMW,i8,HXQ-108,2019,875
+75,BMW,M5,HXV-177,2020,701
+76,BMW,M5,BGK-261,2024,934
+77,BMW,M5,GMF-844,2021,677
+78,BMW,M8,JZA-528,2022,483
+79,BMW,M8,OTY-176,2019,897
+80,BMW,M8,HTQ-559,2019,381
+81,Mercedes-Benz,AMG GT,RAQ-625,2021,834
+82,Mercedes-Benz,S-Class,MUK-101,2019,849
+83,Mercedes-Benz,AMG GT,RGX-865,2022,532
+84,Mercedes-Benz,AMG GT,UVE-979,2018,416
+85,Mercedes-Benz,S-Class,VLH-548,2019,656
+86,Mercedes-Benz,AMG GT,FYY-698,2024,813
+87,Mercedes-Benz,S-Class,RFO-701,2018,747
+88,Mercedes-Benz,S-Class,CFS-558,2019,349
+89,Mercedes-Benz,AMG GT,ZQP-941,2019,525
+90,Mercedes-Benz,AMG GT,WXJ-109,2018,783
+91,Audi,R8,NIJ-323,2021,617
+92,Audi,RS7,JCX-889,2024,683
+93,Audi,A8,FGV-318,2020,722
+94,Audi,A8,XSZ-250,2019,419
+95,Audi,R8,ALJ-451,2021,361
+96,Audi,A8,GAL-873,2023,736
+97,Audi,R8,EOP-706,2022,700
+98,Audi,A8,ALH-923,2022,744
+99,Audi,A8,VLJ-763,2024,762
+100,Audi,R8,WRG-796,2018,930
